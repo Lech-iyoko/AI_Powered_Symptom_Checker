@@ -17,31 +17,31 @@ Build an AI-powered symptom checker that can:
 * Serve as a foundational model for further development in healthcare applications.
 
 ### Workflow
-Data Collection and Preprocessing
-Steps:
+1. Data Collection and Preprocessing
+* Steps:
 Handle missing data, duplicates, and inconsistencies.
-1. Clean and normalize text by:
+2. Clean and normalize text by:
 Removing punctuation, special characters, and stopwords.
 Expanding contractions and removing accents.
 Converting text to lowercase and normalizing whitespace.
 Tokenize text data for vectorization.
 Tools: Python libraries such as pandas, textacy, nltk, and spacy.
 
-2. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 Goals:
 Identify patterns and distributions in the data.
 Analyze text length, token frequencies, and common entities.
 Visualize key metrics using charts and graphs.
 Tools: matplotlib, seaborn, spacy.
 
-3. Feature Engineering
+4. Feature Engineering
 Techniques:
 Convert text to numerical formats using:
 Term Frequency-Inverse Document Frequency (TF-IDF).
 Word embeddings like Word2Vec or GloVe.
 Explore n-grams for phrase-level features.
 
-4. Model Development
+5. Model Development
 Approach:
 Train models like:
 Logistic Regression
@@ -50,7 +50,7 @@ Neural Networks (e.g., RNN, LSTM, or Transformers like BERT)
 Optimize for accuracy, precision, recall, and generalizability.
 Tools: scikit-learn, TensorFlow, PyTorch.
 
-5. Model Evaluation
+6. Model Evaluation
 Metrics:
 Accuracy
 Precision, Recall, F1-score
