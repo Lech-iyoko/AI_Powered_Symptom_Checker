@@ -17,9 +17,9 @@ Build an AI-powered symptom checker that can:
 * Serve as a foundational model for further development in healthcare applications.
 
 ### Workflow
-1. Data Collection and Preprocessing
-* Steps:
+1. Data Collection and Preprocessing:
 Handle missing data, duplicates, and inconsistencies.
+
 2. Clean and normalize text by:
 Removing punctuation, special characters, and stopwords.
 Expanding contractions and removing accents.
