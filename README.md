@@ -1,6 +1,6 @@
 # AI_Powered_Symptom_Checker
 
-This project aims to create a machine learning model that predicts potential conditions or outcomes based on textual descriptions of symptoms and medical history. By analyzing patient data, the model supports decision-making processes in healthcare, offering insights into likely diagnoses or next steps. This project demonstrates the application of AI in healthcare, providing a foundational framework for a scalable symptom checker.
+This project aims to develop a **symptom checker assitant** that assists with **predicting potential conditions or outcomes based on textual descriptions of symptoms and medical history**. By analyzing patient data, the model supports decision-making processes in healthcare, offering insights into likely diagnoses or next steps. This project demonstrates the application of AI in healthcare, providing a foundational framework for a scalable **Healthcare Assistant**.
 
 ### Dataset
 * Name: MedText Dataset
